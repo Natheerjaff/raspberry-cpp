@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int maim() {
-std::cout <c "Hello GitHubl" << endl;
-return 0;
+int main() {
+    cout << "Hello GitHub" << endl;
+    return 0;
 }
