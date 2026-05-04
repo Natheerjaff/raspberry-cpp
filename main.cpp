@@ -1,7 +1,7 @@
 #include <iostream>
-using namespece std;
+using namespace std;
 
 int maim() {
-cout <c "Hello GitHubl" << endl;
+std::cout <c "Hello GitHubl" << endl;
 return 0;
 }
